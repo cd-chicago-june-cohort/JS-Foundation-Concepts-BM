@@ -1,5 +1,5 @@
-var reward = .001;
-var sum = .001;
+var reward = .01;
+var sum = .01;
 var tenkday = 1;
 
 for (var day = 2; day <= 30; day++) {
